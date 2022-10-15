@@ -1,0 +1,4 @@
+用于演示异步组件的文件夹
+index.vue中引入异步组件并展示
+async.vue为一个异步组件，使用axios请求public目录下的data.json文件中的内容
+server.ts为一个axios请求的ts文件

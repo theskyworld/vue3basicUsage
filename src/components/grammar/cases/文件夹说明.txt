@@ -1,0 +1,3 @@
+Card展示全局组件，在body下的content组件中被使用
+Tree展示递归组件，在body下的menu组件中被使用
+checkAll为全选和全不框的案例

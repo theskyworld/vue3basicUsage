@@ -1,0 +1,4 @@
+演示keep-alive组件
+index.vue文件中切换Form和Slider组件的展示
+Form和Slider组件中使用element ui plus
+Form中演示相关的两个生命周期钩子

@@ -1,0 +1,11 @@
+index.vue演示过渡的基本使用：
+1.使用name属性+固定的类名
+2.使用appear属性
+3.使用自定义的类型以及第三方的动画样式
+4.transition生命周期钩子
+5.生命周期钩子结合gsap第三方库使用
+6.transition-group
+
+translate.vue演示平面过渡动画案例（元素的平移过渡）
+
+state.vue演示状态过渡案例
